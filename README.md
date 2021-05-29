@@ -42,3 +42,6 @@ also can use `code here` .... ah... how to say `````` ???? and ??? shit~!
 
 ##### 2021年05月29日21:50:45
 网页修改,webstorm尝试使用command+t获取
+
+##### 2021年05月29日21:52:53
+测试没有问题,使用command+t可以快速的pull,从git
