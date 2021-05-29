@@ -31,3 +31,7 @@ also can use `code here` .... ah... how to say `````` ???? and ??? shit~!
 2021年05月29日11:51:30  王总说,pull,一下就明白了.
 远程修改了文件以后 本地先pull一下,就同步到了远程的代码.
 这三行字,push一下,上传到git试试!
+
+
+#####Ok now 2021年05月29日15:09:23
+现在,我已经在notebook上clone下来了master项目,现在,我修改文件以后提交到master分支下测试
