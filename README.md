@@ -35,3 +35,7 @@ also can use `code here` .... ah... how to say `````` ???? and ??? shit~!
 
 #####Ok now 2021年05月29日15:09:23
 现在,我已经在notebook上clone下来了master项目,现在,我修改文件以后提交到master分支下测试
+
+
+##### PC 已收到 notebook 的文件修改
+接下来,需要在macbook上获取本次修改 
